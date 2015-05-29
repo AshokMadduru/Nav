@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="applications">
+        <item>Alarm</item>
+        <item>Camera</item>
+        <item>Gallery</item>
+        <item>Message</item>
+        <item>Music</item>
+        <item>Video</item>
+    </string-array>
+</resources>
